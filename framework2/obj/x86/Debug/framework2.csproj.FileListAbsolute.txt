@@ -1,0 +1,6 @@
+C:\Users\Vinicius\Documents\Visual Studio 2010\framework2\bin\x86\Debug\framework2.dll
+C:\Users\Vinicius\Documents\Visual Studio 2010\framework2\bin\x86\Debug\framework2.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2010\framework2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\Visual Studio 2010\framework2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vinicius\Documents\Visual Studio 2010\framework2\obj\x86\Debug\framework2.dll
+C:\Users\Vinicius\Documents\Visual Studio 2010\framework2\obj\x86\Debug\framework2.pdb
